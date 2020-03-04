@@ -9,6 +9,7 @@ verify_ssl = true
 dwave-ocean-sdk = "*"
 jupyterlab = "*"
 jupyterlab-git = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.8"
